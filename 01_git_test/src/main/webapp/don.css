@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700&display=swap');
+
+body {
+    background: radial-gradient(circle at top, #1b1b2f, #0f0f1a);
+    color: #e6d5a8;
+    font-family: 'Cinzel', serif;
+    text-align: center;
+    padding-top: 50px;
+}
+
+/* 제목 스타일 */
+h1 {
+    font-size: 42px;
+    color: #f5e6b3;
+    text-shadow:
+            0 0 5px #ffd700,
+            0 0 10px #ffcc00,
+            0 0 20px #ff9900;
+    margin: 20px;
+}
+
+h2 {
+    font-size: 28px;
+    color: #c9b37e;
+    text-shadow: 0 0 10px #aa8800;
+}
+
+/* 버튼 스타일 */
+button {
+    font-family: 'Cinzel', serif;
+    font-size: 18px;
+    padding: 12px 28px;
+    margin: 15px;
+    color: #fff;
+    background: linear-gradient(145deg, #5a3e1b, #2e1f0f);
+    border: 2px solid #d4af37;
+    border-radius: 10px;
+    box-shadow:
+            0 0 10px rgba(255,215,0,0.6),
+            inset 0 0 8px rgba(255,215,0,0.5);
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+/* 버튼 호버 */
+button:hover {
+    background: linear-gradient(145deg, #7a5524, #3b270f);
+    transform: scale(1.08);
+    box-shadow:
+            0 0 20px rgba(255,215,0,0.9),
+            inset 0 0 10px rgba(255,215,0,0.7);
+}
