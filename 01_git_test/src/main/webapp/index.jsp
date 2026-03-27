@@ -5,6 +5,7 @@
     <title>JSP - Hello World</title>
 </head>
 <body>
-<button>냥♡</button>
+<a href="hello-servlet"><button>냥♡</button></a>
+
 </body>
 </html>
