@@ -4,18 +4,11 @@
   <head>
     <title>JSP - Hello World</title>
   </head>
-  <body>
-    <button>냥♡</button>
-    <h1>서동민 바보</h1>
-    <h2>멋진 동민</h2>
-    <h3>동민 바보</h3>
-  </body>
-</html>
-</head>
 <body>
 <button>냥♡</button>
 <h1>서동민 바보</h1>
 <h2>멋진 동민</h2>
 <h1>멋진 응수</h1>
+<h1>바보</h1>
 </body>
 </html>
